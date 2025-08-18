@@ -55,7 +55,7 @@ export default function Hero({
   buttons = [
     {
       href: "https://www.launchuicomponents.com/",
-      text: "Newsletter",
+      text: "Discover More",
       variant: "default",
     },
     {
